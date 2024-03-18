@@ -1,0 +1,20 @@
+{
+  "name": "sort_algorithms",
+  "version": "1.0.0",
+  "description": "I will explain all sort algorithms with example code snippet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Besmillah Ibrahimi",
+  "license": "MIT",
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.2",
+    "@types/node": "^20.11.28",
+    "@typescript-eslint/eslint-plugin": "^7.2.0",
+    "@typescript-eslint/parser": "^7.2.0",
+    "eslint": "^8.57.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  }
+}
