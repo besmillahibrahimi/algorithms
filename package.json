@@ -4,6 +4,7 @@
   "description": "I will explain all sort algorithms with example code snippet.",
   "main": "index.js",
   "scripts": {
+    "start": "ts-node ",
     "test": "npm run test"
   },
   "author": "Besmillah Ibrahimi",
